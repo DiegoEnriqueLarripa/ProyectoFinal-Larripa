@@ -1,7 +1,6 @@
 # E-commerce "Tech Store" - Proyecto Final React
 
-![Tech Store](https://i.imgur.com/tu-imagen.png) 
-*(Opcional: Sube una captura de tu Home a Imgur y pega el enlace aquí)*
+![Tech Store]
 
 ## 📋 Descripción General
 
@@ -48,7 +47,7 @@ Para clonar, instalar y ejecutar este proyecto en un entorno local, por favor, s
 ### **1. Clonar el Repositorio**
 
 ```bash
-git clone [URL de tu repositorio de GitHub aquí]
+git clone https://github.com/DiegoEnriqueLarripa/ProyectoFinal-Larripa
 2. Navegar al Directorio
 code
 Bash
